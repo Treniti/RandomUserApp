@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RandomUserApp</string>
+    <string name="catalog">Catalog</string>
+    <string name="history">History</string>
+    <string name="userAge">Age: %1$d</string>
+    <string name="userGender">Gender: %1$s</string>
+    <string name="userEmail">Email: %1$s</string>
+    <string name="userPhone">Phone: %1$s</string>
+</resources>
